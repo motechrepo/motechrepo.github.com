@@ -1,0 +1,7 @@
+[motech]
+name=Motech Platform dependency - $basearch
+baseurl=http://motechrepo.github.com/pub/motech/6/$basearch
+failovermethod=priority
+enabled=1
+gpgcheck=0
+
