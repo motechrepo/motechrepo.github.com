@@ -1,13 +1,7 @@
 
 ## Motech yum repo
 
-<code>
-
-cd /etc/yum.repos.d/
-
-wget http://motechrepo.github.com/motech.repo
-
-</code>
+<code>wget -O /etc/yum.repos.d/motech.repo http://motechrepo.github.com/motech.repo</code>
 
 Verifying repo :
 <code>
