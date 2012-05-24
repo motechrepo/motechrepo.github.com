@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
-  <revision>1337253831</revision>
+<repomd xmlns="http://linux.duke.edu/metadata/repo">
   <data type="other">
-    <checksum type="sha256">0c73a7df09de74b4a905778aea47468c9cfdebdbb025eaa87340bedcf425da16</checksum>
-    <timestamp>1337253835</timestamp>
-    <size>380</size>
-    <open-size>469</open-size>
-    <open-checksum type="sha256">349dc901990b94f6401ee1026832f8240880633669ccb44d4d926277a965c635</open-checksum>
     <location href="repodata/other.xml.gz"/>
+    <checksum type="sha">9cd13f34d9e91dae089d2ab327b731c63e06afca</checksum>
+    <timestamp>1337867729</timestamp>
+    <open-checksum type="sha">6e16ebd54f3050951301ce9238c80978b7bbdedb</open-checksum>
   </data>
   <data type="filelists">
-    <checksum type="sha256">c0dd92ef2d11415530c0325ee0c73b2cc473a9f112f0f647e763cac57da7a184</checksum>
-    <timestamp>1337253835</timestamp>
-    <size>167357</size>
-    <open-size>2705187</open-size>
-    <open-checksum type="sha256">dbb9b4e50e15ce5090e506aec0e499d9625b05d3fd26f3ee7036105aae515aa2</open-checksum>
     <location href="repodata/filelists.xml.gz"/>
+    <checksum type="sha">16b965dbe4c899f5d240b9cb3fd09139a29f4034</checksum>
+    <timestamp>1337867729</timestamp>
+    <open-checksum type="sha">784524c485b7c210c6586c15ebce57f86d1ddf2f</open-checksum>
   </data>
   <data type="primary">
-    <checksum type="sha256">b37a8a4f24a1445f11c583183d884a79b2d7c7f614a20a027476489fe0004a84</checksum>
-    <timestamp>1337253835</timestamp>
-    <size>3203</size>
-    <open-size>26762</open-size>
-    <open-checksum type="sha256">3e7d74d27c4b4316662ec07583f1b6aecac4c307c41966119c18db3f70e70743</open-checksum>
     <location href="repodata/primary.xml.gz"/>
+    <checksum type="sha">a9a392774281810a461f288e63e8c050ff6232ed</checksum>
+    <timestamp>1337867729</timestamp>
+    <open-checksum type="sha">7c32166a7a6019b67171cb3d8caeaf90053e9b4c</open-checksum>
   </data>
 </repomd>
