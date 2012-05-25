@@ -1,13 +1,15 @@
 ## Motech yum repo
 
+* Install motech repo : 
 <code>wget -O /etc/yum.repos.d/motech.repo http://motechrepo.github.com/motech.repo</code>
 
-Verifying repo :
+<code>curl http://motechrepo.github.com/motech.repo>/etc/yum.repos.d/motech.repo</code>
+* Verifying repo :
 <code>
-<b>yum list ruby motech</b>
+<b>yum list apache-couchdb motech</b>
 Loaded plugins: fastestmirror, refresh-packagekit
 Installed Packages
-ruby.x86_64                                                                              1.9.3p125-2.el6                                                                               @motech</code>
+apache-couchdb                   1.2.0-0                                              motech</code>
 
 ### Installing
 
