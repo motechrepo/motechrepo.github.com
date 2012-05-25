@@ -1,4 +1,3 @@
-
 ## Motech yum repo
 
 <code>wget -O /etc/yum.repos.d/motech.repo http://motechrepo.github.com/motech.repo</code>
