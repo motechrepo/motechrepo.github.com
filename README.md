@@ -13,4 +13,4 @@ apache-couchdb                   1.2.0-0                                        
 
 ### Installing
 
-<code> yum install ruby </code>
+<code> yum install apache-couchdb </code>
