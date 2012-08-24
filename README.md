@@ -6,10 +6,10 @@
 <code>curl http://motechrepo.github.com/motech.repo>/etc/yum.repos.d/motech.repo</code>
 * Verifying repo :
 <code>
-<b>yum list apache-couchdb motech</b>
+<b>yum list couchdb motech</b>
 Loaded plugins: fastestmirror, refresh-packagekit
 Installed Packages
-apache-couchdb                   1.2.0-0                                              motech</code>
+couchdb                   1.2.0-7                                              motech</code>
 
 ### Installing
 
